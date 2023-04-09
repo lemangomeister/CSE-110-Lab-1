@@ -1,5 +1,6 @@
 # Introduction
 [Jump to 'Who I Am As A Person'](#who-i-am-as-a-person)
+
 [Jump to 'Who I Am As A Programmer'](#who-i-am-as-a-programmer)
 
 ## Who I Am As A Person
