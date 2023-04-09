@@ -7,6 +7,13 @@ My name is Mico Guinto. As of the time I created this User Page, I am a 4th year
     <li>And essentially anything that involves me using my legs</li>
 </ol>
 
+Some of the things I'd like to be able to do to improve myself are:
+<ul>
+    <li>Maintain a healthy body</li>
+    <li>Improve culinary skills</li>
+    <li>Improve social skills</li>
+</ul>
+
 ## Who I am As A Programmmer
 I am aspiring to be an effective engineer not just in the software realm, but I also aspire to be involved with hardware as well. The courses I have taken relating to hardware have been interesting to the point that I am intrigued enough to explore more of the world of hardware.
 # Lab 1
