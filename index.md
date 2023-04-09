@@ -39,4 +39,5 @@ Some of my current goals as a Computer Engineering Student:
 - [ ] Acquire an internship
 - [ ] Profit ????
 
-[Link to README.md for Lab 1](README.md)
+Link to [README.md] for Lab 1(README.md)
+This page was made with help from the [documentation](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#task-lists)
