@@ -39,4 +39,4 @@ Some of my current goals as a Computer Engineering Student:
 - [ ] Acquire an internship
 - [ ] Profit ????
 
-[Link to README.md for Lab 1](CSE-110-Lab-1/README.md)
+[Link to README.md for Lab 1](README.md)
