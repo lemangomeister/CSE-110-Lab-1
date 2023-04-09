@@ -31,6 +31,9 @@ Some of the things I'd like to be able to do to improve myself are:
 Here is a picture of my favorite/spirit animal:
 ![EmperorPenguins](Penguin_6.jpg)
 
+Another picture of an instructor and I doing some sparring:
+![knife](qwe.png)
+
 ## Who I am As A Programmmer
 I am aspiring to be an effective engineer not just in the software realm, but I also aspire to be involved with hardware as well. The courses I have taken relating to hardware have been interesting to the point that I am intrigued enough to explore more of the world of hardware, something I thought I would ever do. One of the things I struggle with as an aspiring engineer is maintaining productivity for a relatively long period of time. Sometimes, I just make changes, hit `git commit`, `git push` and I do something else.
 
